@@ -1,8 +1,14 @@
 -👋 Hi, I’m @AlioM46.
 
--👀 I’m interested in ... Web Development, Especially in Front-end.
+What I use to build front-end?
 
--🌱 I’m currently learning ... TypeScript, Next.JS +13, and Backend.
+HTML , CSS . JavaScript , React, Redux Toolkit , Redux Query , Tailwind , (soon...TypeScript , NextJS)
+
+I also have experince with #MERN Stack
+
+-👀 I’m interested in Web Development, Especially in Front-end.
+
+-🌱 I’m currently learning TypeScript, Next.JS +13, and Backend.
 
 -📫 How to reach me?
 
