@@ -5,6 +5,7 @@
 
 - 
   on discord : .slooom
+  -
   WhatsApp: +966581182115
   -
 
