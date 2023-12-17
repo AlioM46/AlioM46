@@ -17,6 +17,12 @@
 - **Express** 🚀
 - **Mongoose** 🍃
 
+
+### Languages
+- **Arabic** 🌍 (Fluent, Native)
+- **English** 🌐 (Medium)
+
+
 ## How to Reach Me
 
 - **WhatsApp:** +966-581182115 📱
