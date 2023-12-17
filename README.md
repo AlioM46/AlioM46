@@ -1,19 +1,25 @@
--👋 Hi, I’m @AlioM46.
+# AlioM46's GitHub Resume 🚀
 
-What I use to build front-end?
+## Skills
 
-HTML , CSS . JavaScript , React, Redux Toolkit , Redux Query , Tailwind , (soon...TypeScript , NextJS)
+### Front End
+- React ⚛️
+- Redux Toolkit (RTK) 🛠️
+- RTK Query 🔄
+- CSS 🎨
+- HTML 🌐
+- JavaScript 🚀
+- Tailwind CSS 🌈
+- (Soon: TypeScript, Next.js) 🚧
 
-I also have experince with #MERN Stack
+### Back End
+- Mongoose 🍃
+- Express 🚀
+- Node.js 🛠️
 
--👀 I’m interested in Web Development, Especially in Front-end.
+## How to Reach Me
 
--🌱 I’m currently learning TypeScript, Next.JS +13, and Backend.
+- WhatsApp: +966-581182115 📱
+- Discord: .slooom 🎮
 
--📫 How to reach me?
-
-Discord: .slooom
--
-
-WhatsApp: +966581182115
--
+Feel free to connect with me! Let's build amazing things together! 💻✨
