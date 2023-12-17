@@ -19,7 +19,8 @@
 
 
 ### Other
-- **Github**
+- **Git**
+- **GitHub**
 
 ### Languages
 - **Arabic** 🌍 (Fluent, Native)
