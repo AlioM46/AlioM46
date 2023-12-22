@@ -29,7 +29,7 @@
 
 ## How to Reach Me
 
-- **WhatsApp:** +966-581182115 📱
-- **Discord:** .slooom 🎮
+- **WhatsApp:** (+966)-58-118-2115 📱
+- **Discord:** .slooom 
 
-Feel free to connect with me! Let's build amazing things together! 💻✨
+Feel free to connect with me! ❤️
