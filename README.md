@@ -10,11 +10,11 @@
 - **HTML** 🌐
 - **CSS** 🎨
 - **JavaScript** 🚀
+- **Next.js+14**
 - **React** ⚛️
 - **Redux Toolkit (RTK)** 🛠️
 - **RTK Query** 🔄
 - **Tailwind CSS** 🌈
-- *(Soon: TypeScript, Next.js)* 🚧
 
 ### Back End
 - **Node.js** 🛠️
