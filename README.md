@@ -17,10 +17,13 @@
 - **Tailwind CSS** 🌈
 
 ### Back End
+- **C# & (.NET Framework, .NET Core)** 
 - **Node.js** 🛠️
 - **Express** 🚀
-- **Mongoose** 🍃
 
+### Database
+- **Mongoose** 🍃
+- **Microsoft SQL** 
 
 ### Other
 - **Git**
@@ -33,7 +36,7 @@
 
 ## How to Reach Me
 
-- **WhatsApp:** (+966)-58-118-2115 📱
+- **WhatsApp:** (+966)-55-546-1974 📱
 - **Discord:** .slooom 
 
 Feel free to connect with me! ❤️
