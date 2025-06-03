@@ -6,6 +6,8 @@
 
 ## Skills
 
+### Link: https://drive.google.com/file/d/1LGfC-vNsoB0u861FxYCPHGgUl7figOwZ/view?usp=sharing
+
 ### Front End
 - **HTML** 🌐
 - **CSS** 🎨
