@@ -2,7 +2,7 @@
 **Full-Stack Developer | Passionate about clean code & scalable web apps**  
 
 🌐 [Portfolio](https://my-portfolio-ktyg.onrender.com) 
-📄 [Resume](https://drive.google.com/file/d/1LGfC-vNsoB0u861FxYCPHGgUl7figOwZ/view?usp=sharing)  
+📄 [Resume](https://drive.google.com/file/d/13YqgPAPi-YOElMUbZp9mSaC7PJ2bfbGc/view?usp=sharing)  
 
 ---
 
